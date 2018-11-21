@@ -19,3 +19,6 @@ class User():
 user1=User("wang","li","woman",35)
 user1.greet_user("Hello ")
 user1.describe_user()
+ 
+user2=User("Niu","Xiaodong","Man",48)
+user2.greet_user("How are you，")
