@@ -10,13 +10,20 @@ class Car():
         return long_name
 
     def read_odometer(self):
+        """读里程表"""
         print("This car has run "+str(self.odometer_reader)+" mile{s}.")
 
     def update_odometer(self, newmile):
+        """设置里程表为指定的值，拒绝里程表往回拨"""
         if newmile > self.odometer_reader:
             self.odometer_reader = newmile
         else:
             print("You can rollback an odometer.")
+
+
+    def increase_odometer(self,miles):
+        """将里程表读数增加指代的量"""
+        self.odometer_reader+=miles
 
     def fill_gas_tank(self):
         print("This car has a 55L gas tank")
