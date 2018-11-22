@@ -23,14 +23,40 @@ class Car():
 
 
 
-class ElectricCar(Car):
-    def __init__(self, make, model, year):
-        super().__init__(make, model, year)
-            
-        self.battery_size = 70
+class Battery():
+    def __init__(self,battery_size=70):
+        self.battery_size=battery_size
+
+    def upgrade_battery(self):
+        if self.battery_size!=85:
+            self.battery_size=85
+
+
+    def get_range(self):
+        """打印一条消息，指出电瓶的续航里程"""
+        if self.battery_size==70:
+            range=240
+        elif self.battery_size==85:
+            range=270
+
+        message="This car can go approximately "+str(range)
+        message+=" miles on a full charge."
+
+        print(message)
 
     def describe_battery(self):
-        print("This car has a " + str(self.battery_size)+"-kwh battery")
+        print("This car has a " + str(self.battery_size)+"-kwh battery.")
+
+    
+        
+
+class ElectricCar(Car):
+    def __init__(self, make, model, year):
+        super().__init__(make, model, year)     
+        
+        self.battery=Battery()
+    
+  
 
     def fill_gas_tank(self):
         print("This eletric car doesn't need a gas tank!")
@@ -50,5 +76,12 @@ print(my_tesla.get_description_name())
 my_tesla.read_odometer()
 my_tesla.update_odometer(100)
 my_tesla.read_odometer()
-my_tesla.describe_battery()
-my_tesla.fill_gas_tank()
+
+my_tesla.battery.describe_battery()
+my_tesla.battery.get_range()
+
+print("\n升级电池容量")
+
+my_tesla.battery.upgrade_battery()
+my_tesla.battery.describe_battery()
+my_tesla.battery.get_range()

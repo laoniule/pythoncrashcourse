@@ -17,12 +17,13 @@ class User():
         print(greet + self.fullname)
 
 
-class Privieges():
-    self.privileges=["can add post","can delete post","can ban user"]
+class Priviledges():
+    def __init__(self):
+        self.privileges=["can add post","can delete post","can ban user"]
 
 
     def show_privileges(self):
-        print("{} ,You have privileges below: ".format(self.fullname))
+ #       print("{} ,You have privileges below: ".format(self.fullname))
         for v in self.privileges:
             print(v)
 
@@ -31,6 +32,7 @@ class Admin(User):
         super().__init__(firstname,lastname,sex,age)
         self.fullname=self.firstname+self.lastname
         
+        self.priviledges=Priviledges()
         
 
 
@@ -44,4 +46,4 @@ user2=User("Niu","Xiaodong","Man",48)
 user2.greet_user("How are you，")
 
 admin=Admin("zhang","Yun","man",26)
-admin.show_privileges()
+admin.priviledges.show_privileges()
