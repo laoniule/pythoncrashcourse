@@ -35,7 +35,7 @@
     <SUITE FILE_PATH="coverage/PythonCrashCourse$get_formatted_name.coverage" NAME="get_formatted_name Coverage Results" MODIFIED="1542531097053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter07" />
     <SUITE FILE_PATH="coverage/PythonCrashCourse$city_country.coverage" NAME="city_country Coverage Results" MODIFIED="1542532605528" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter07" />
     <SUITE FILE_PATH="coverage/PythonCrashCourse$person.coverage" NAME="person Coverage Results" MODIFIED="1542531806792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter07" />
-    <SUITE FILE_PATH="coverage/PythonCrashCourse$PythonCrashCourse.coverage" NAME="PythonCrashCourse Coverage Results" MODIFIED="1543479074982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonCrashCourse$PythonCrashCourse.coverage" NAME="PythonCrashCourse Coverage Results" MODIFIED="1545191956760" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonCrashCourse$mountain_poll.coverage" NAME="mountain_poll Coverage Results" MODIFIED="1542510703089" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter07" />
     <SUITE FILE_PATH="coverage/PythonCrashCourse$user_profile.coverage" NAME="user_profile Coverage Results" MODIFIED="1542540111014" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter07" />
   </component>
@@ -202,7 +202,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.pi_string">
+  <component name="RunManager" selected="Python.file_reader">
     <configuration name="PythonCrashCourse" type="JupiterNotebook" factoryName="Jupyter Notebook">
       <module name="PythonCrashCourse" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -219,6 +219,28 @@
       <option name="additionalOptions" value="" />
       <option name="ipnbHost" value="127.0.0.1" />
       <option name="ipnbPort" value="8888" />
+      <method v="2" />
+    </configuration>
+    <configuration name="file_reader" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonCrashCourse" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter10" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter10/file_reader.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
     <configuration name="pi_string" type="PythonConfigurationType" factoryName="Python" temporary="true">
@@ -287,28 +309,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="showmodels" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PythonCrashCourse" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter07" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter07/showmodels.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="user_profile" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonCrashCourse" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -333,19 +333,19 @@
     </configuration>
     <list>
       <item itemvalue="Jupyter Notebook.PythonCrashCourse" />
-      <item itemvalue="Python.showmodels" />
       <item itemvalue="Python.pizza" />
       <item itemvalue="Python.user_profile" />
       <item itemvalue="Python.printpi" />
       <item itemvalue="Python.pi_string" />
+      <item itemvalue="Python.file_reader" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.file_reader" />
         <item itemvalue="Python.pi_string" />
         <item itemvalue="Python.printpi" />
         <item itemvalue="Python.user_profile" />
         <item itemvalue="Python.pizza" />
-        <item itemvalue="Python.showmodels" />
       </list>
     </recent_temporary>
   </component>
