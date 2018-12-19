@@ -2,17 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="24bfa695-caa7-40ae-a2ff-eca6cd0339c9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Chapter10/alice.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter10/little_women.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter10/moby_dick.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter10/numbers.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter10/pi_30_digits.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter10/pi_digits.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter10/pi_million_digits.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter10/pi_string.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter10/printpi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter10/programming.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter10/siddhartha.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/PythonCrashCourse.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PythonCrashCourse.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -43,14 +32,14 @@
     <session id="1350824167">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.15" value="1" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.open.time.6" value="2" />
+          <entry key="project.open.time.6" value="3" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="8" />
+          <entry key="project.opened" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -86,15 +75,19 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Chapter10/printpi.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="6" column="17" lean-forward="true" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+            <state relative-caret-position="162">
+              <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Chapter10/pi_string.py">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -150,7 +143,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -161,17 +153,13 @@
             <path>
               <item name="PythonCrashCourse" type="b2602c69:ProjectViewProjectNode" />
               <item name="PythonCrashCourse" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter09" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PythonCrashCourse" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PythonCrashCourse" type="462c0819:PsiDirectoryNode" />
               <item name="Chapter10" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -228,9 +216,9 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="C:\Users\xniu\PycharmProjects\PythonCrashCourse\venv\Scripts\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter10" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
@@ -363,15 +351,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20118026" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20386267" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.34219268" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.34219268" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39932886" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -381,7 +368,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.45346063" />
-      <window_info anchor="bottom" id="Python Console" order="12" weight="0.3078759" />
+      <window_info anchor="bottom" id="Python Console" order="12" visible="true" weight="0.3068309" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -498,13 +485,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Chapter10/printpi.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="6" column="17" lean-forward="true" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        <state relative-caret-position="162">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Chapter10/pi_string.py">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
