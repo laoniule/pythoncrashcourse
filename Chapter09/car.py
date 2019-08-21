@@ -18,7 +18,7 @@ class Car():
         if newmile > self.odometer_reader:
             self.odometer_reader = newmile
         else:
-            print("You can rollback an odometer.")
+            print("You can not rollback an odometer.")
 
 
     def increase_odometer(self,miles):
@@ -28,10 +28,11 @@ class Car():
     def fill_gas_tank(self):
         print("This car has a 55L gas tank")
 
-""" newcar = Car("Audi", "A4", 2016)
+newcar = Car("Audi", "A4", 2016)
 print(newcar.get_description_name())
 newcar.update_odometer(30)
 newcar.read_odometer()
-newcar.update_odometer(5)
+newcar.update_odometer(23500)
 newcar.read_odometer()
- """
+newcar.increase_odometer(100)
+newcar.read_odometer()
