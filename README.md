@@ -1,3 +1,3 @@
 # pythoncrashcourse
 
-learning it
+learning python and git
