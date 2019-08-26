@@ -8,3 +8,16 @@ for alien in aliens[:5]:
     print(alien)
 
 print("...")
+
+for alien in aliens[:3]:
+    if alien['color']=='green':
+        alien['color']='yellow'
+        alien['speed']='medium'
+        alien['point']=10
+    elif alien['color']=='yellow':
+        alien['color']='red'
+        alien['speed']='fast'
+        alien['point']=15
+
+for alien in aliens:
+    print(alien)    
