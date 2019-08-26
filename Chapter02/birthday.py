@@ -10,3 +10,8 @@ print((16/2).__int__())
 a = 'Itry'
 b = 3
 print(a+b.__str__())
+
+
+a = ['1','2','3','4']
+b = [y for x in a for y in x]
+print(b)

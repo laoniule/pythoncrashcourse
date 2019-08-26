@@ -1,4 +1,4 @@
-#/usr/bin/python
+#!/usr/bin/python
 
 prompt = "What would you like to add in pizza? "
 
@@ -9,5 +9,4 @@ while active:
     if message == 'quit':
         active = False
     else:
-        print("add some " +message)
-    
+        print("add some " + message)
