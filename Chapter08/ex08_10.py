@@ -12,8 +12,8 @@ def show_magicians(magicians):
 
 
 magicians = ["a", "b", "c", "d"]
-copy_magicians=magicians[:]
-#make_great(magicians)
+copy_magicians = magicians[:]
+# make_great(magicians)
 make_great(copy_magicians)
 show_magicians(magicians)
 show_magicians(copy_magicians)

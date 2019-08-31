@@ -2,7 +2,8 @@
 
 
 def make_pizza(size, *toppings):
-    print("\nMaking a "+ str(size)+ " inches pizza with the following topings:")
+    print("\nMaking a " + str(size) + " inches pizza with the following \
+topings:")
     for topping in toppings:
         print("-" + topping)
 
