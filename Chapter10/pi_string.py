@@ -1,7 +1,9 @@
+#!/usr/bin/pyhton
+
 import os
 
-filename = os.path.abspath(os.path.dirname(__file__))+'\pi_million_digits.txt'
-with open( filename) as file_object:
+filename = os.path.abspath(os.path.dirname(__file__)) + '\\pi_million_digits.txt'
+with open(filename) as file_object:
     lines = file_object.readlines()
 
 pi_string = ''
@@ -11,7 +13,7 @@ for line in lines:
 print(pi_string[: 52] + "...")
 print(len(pi_string))
 
-birthday=input("Enter your birthday, in  the mmddyy.")
+birthday = input("Enter your birthday, in  the mmddyy.")
 if str(birthday) in pi_string:
     print("Your birthday appears in  the first million digits of pi.")
 else:

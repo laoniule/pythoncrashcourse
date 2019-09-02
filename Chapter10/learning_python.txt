@@ -1,0 +1,4 @@
+In python you can handle text.
+In python you can calculate.
+In python you can write script to execute.
+In python you can program game.
