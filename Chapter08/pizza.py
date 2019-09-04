@@ -8,5 +8,5 @@ topings:")
         print("-" + topping)
 
 
-make_pizza(16, 'peperoni')
-make_pizza(12, 'mushroom', 'great peppers', 'extra cheease')
+# make_pizza(16, 'peperoni')
+# make_pizza(12, 'mushroom', 'great peppers', 'extra cheease')
