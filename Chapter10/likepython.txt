@@ -1,0 +1,4 @@
+C:/Users/xniu/Anaconda3/Scripts/activate
+conda activate base
+simple
+light

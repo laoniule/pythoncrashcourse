@@ -1,0 +1,21 @@
+Online Book Catalog - Overview
+Note: we also have offline book catalogs to download and use at home. 
+Browse by Author, Title, Language or Recently Posted
+Our browse pages are ideal to view what's in the collection if you are yet undecided on what you want to read.
+The recently posted pages list what new books got added or updated most recently. There is also an RSS Feed. (You'll need a feed reader software to read this.)
+Freshness: updated nightly.
+Authors: A  B  C  D  E  F  G  H  I  J  K  L  M  N  O  P  Q  R  S  T  U  V  W  X  Y  Z  other  
+Titles: A  B  C  D  E  F  G  H  I  J  K  L  M  N  O  P  Q  R  S  T  U  V  W  X  Y  Z  other  
+Languages with more than 50 books: Chinese  Danish  Dutch  English  Esperanto  Finnish  French  German  Greek  Hungarian  Italian  Latin  Portuguese  Spanish  Swedish  Tagalog  
+Languages with up to 50 books: Afrikaans  Aleut  Arabic  Arapaho  Bodo  Breton  Bulgarian  Caló  Catalan  Cebuano  Czech  Estonian  Farsi  Frisian  Friulian  Gaelic, Scottish  Galician  Gamilaraay  Greek, Ancient  Hebrew  Icelandic  Iloko  Interlingua  Inuktitut  Irish  Japanese  Kashubian  Khasi  Korean  Lithuanian  Maori  Mayan Languages  Middle English  Nahuatl  Napoletano-Calabrese  Navajo  North American Indian  Norwegian  Occitan  Ojibwa  Old English  Polish  Romanian  Russian  Sanskrit  Serbian  Slovenian  Tagabawa  Telugu  Welsh  Yiddish  
+Special Categories: Audio Book, computer-generated  Audio Book, human-read  Compilations  Data  Music, recorded  Music, Sheet  Other recordings  Pictures, moving  Pictures, still  
+Recent: last 24 hours  last 7 days  last 30 days  
+Top 100 Books
+If you are yet undecided, maybe you can find something on our top 100 list. 
+Book Catalog Search
+If you already know what book you want to read, you may search our book catalog for author, title, or subjects. Subject headings are what are known as controlled-vocabulary terms, from the U.S. Library of Congress Subject Headings (LCSH). Subject searching is, therefore, not the same as full text searching.
+Freshness: Search is always up to date as to titles and authors. Subjects may be updated later.
+Other Search Engines
+Yahoo
+Project Gutenberg is a participant in Yahoo!'s Content Acquisition Program. This provides a search of book metadata (author, title, brief description, keywords). 
+Freshness: updated weekly.
