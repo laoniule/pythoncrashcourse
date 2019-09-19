@@ -24,7 +24,7 @@ plt.scatter(x_value,
             c=y_value,
             cmap=plt.cm.Blues,
             edgecolor="none",
-            s=20)
+            s=4)
 plt.title("Square Numbers", fontsize=24)
 plt.xlabel("Value", fontsize=14)
 plt.ylabel("Square of Value", fontsize=14)
@@ -32,5 +32,5 @@ plt.ylabel("Square of Value", fontsize=14)
 plt.axis([0, 1100, 0, 1100000])
 
 plt.tick_params(axis="both", which="major", labelsize=14)
-# plt.show()
-plt.savefig('squares_plot.png', bbox_inches='tight')
+plt.show()
+# plt.savefig('squares_plot.png', bbox_inches='tight')
