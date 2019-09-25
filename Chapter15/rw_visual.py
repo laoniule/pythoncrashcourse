@@ -3,7 +3,7 @@
 '''
 @File    :   rw_visual.py
 @Time    :   2019/09/20 22:07:43
-@Author  :   Niu Xiaodong 
+@Author  :   Niu Xiaodong
 @Version :   1.0
 @Contact :   xniu@msn.com
 @License :   (C)Copyright 2017-2018
