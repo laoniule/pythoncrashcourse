@@ -3,7 +3,7 @@
 '''
 @File    :   mpl_squares.py
 @Time    :   2019/09/08 16:59:03
-@Author  :   Niu Xiaodong 
+@Author  :   Niu Xiaodong
 @Version :   1.0
 @Contact :   xniu@msn.com
 @License :   (C)Copyright 2017-2018

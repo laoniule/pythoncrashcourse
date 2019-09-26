@@ -3,7 +3,7 @@
 '''
 @File    :   highsandlows.py
 @Time    :   2019/09/19 10:38:22
-@Author  :   Niu Xiaodong 
+@Author  :   Niu Xiaodong
 @Version :   1.0
 @Contact :   xniu@msn.com
 @License :   (C)Copyright 2017-2018
