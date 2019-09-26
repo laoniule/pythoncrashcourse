@@ -1,8 +1,8 @@
 {
     "php.executablePath": "C:\\phpStudy\\php\\php-7.0.12-nts\\php.exe",
     "python.linting.pylintEnabled": true,
-    "python.pythonPath": "C:\\Users\\xniu\\Anaconda3\\python.exe",
-    "python.formatting.provider": "yapf",
+    "python.pythonPath": "C:\\Users\\xniu\\Anaconda3\\envs\\PythonCrashCourse\\python.exe",
+    "python.formatting.provider": "autopep8",
     "files.exclude": {
         "**/.classpath": true,
         "**/.project": true,
